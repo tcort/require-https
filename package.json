@@ -1,6 +1,6 @@
 {
   "name": "require-https",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "express middleware to require requests to be secure",
   "main": "index.js",
   "scripts": {
